@@ -1,9 +1,3 @@
-"""
-Week: 03
-Project: Test Waterflow
-Author: Joao Melgarejo Sánchez
-Student ID: 22267965
-"""
 from waterflow import water_column_height
 from waterflow import pressure_gain_from_water_height
 from waterflow import pressure_loss_from_pipe
